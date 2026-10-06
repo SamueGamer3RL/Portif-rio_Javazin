@@ -1,0 +1,70 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "jogo.src.main",
+            "projectName": "Portif-rio_Javazin_7c978d09"
+        },
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "Metedos.main",
+            "projectName": "Portif-rio_Javazin_7c978d09"
+        },
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "ProjetoJava.src.main",
+            "projectName": "Portif-rio_Javazin_7c978d09"
+        },
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "javaDOO.senac.main",
+            "projectName": "Portif-rio_Javazin_7c978d09"
+        },
+        {
+            "type": "java",
+            "name": "Apresentacao",
+            "request": "launch",
+            "mainClass": "Java.Senac.Apresentacao",
+            "projectName": "Portif-rio_Javazin_7c978d09"
+        },
+        {
+            "type": "java",
+            "name": "TempoConversor",
+            "request": "launch",
+            "mainClass": "Java.Senac.TempoConversor",
+            "projectName": "Portif-rio_Javazin_7c978d09"
+        },
+        {
+            "type": "java",
+            "name": "Condicionais",
+            "request": "launch",
+            "mainClass": "Java.Senac.Condicionais",
+            "projectName": "Portif-rio_Javazin_7c978d09"
+        },
+        {
+            "type": "java",
+            "name": "Baldis",
+            "request": "launch",
+            "mainClass": "Java.Senac.Baldis",
+            "projectName": "Portif-rio_Javazin_7c978d09"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
